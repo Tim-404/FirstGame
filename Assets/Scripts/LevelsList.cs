@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 /// <summary>
-/// LevelsList: Handles button management specifically for the LevelsList scene
+/// LevelsList: Handles button management specifically for the LevelsList
 /// </summary>
 public class LevelsList : ButtonManager
 {
